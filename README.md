@@ -1,4 +1,4 @@
 # My Profile
 About Me
 <br>
-Auther- Dheeraj Maurya
+Author- Dheeraj Maurya
